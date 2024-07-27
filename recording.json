@@ -1,0 +1,3292 @@
+[
+  {
+    "action": "clicked",
+    "button": "Button.left",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495510.1276276
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.left",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495510.2614095
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495511.59536
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495511.7520328
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495511.960093
+  },
+  {
+    "action": "clicked",
+    "button": "Button.left",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495512.0103476
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495512.473088
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495512.5027525
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495512.5336263
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495512.5637476
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495512.5712576
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495512.595419
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495512.9412138
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495513.670115
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495513.7021592
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495513.8235593
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.2023132
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.2520354
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.2804277
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.3121462
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.3434741
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.3742495
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.4054947
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.4374096
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.4681525
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.4981992
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.5455248
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.577249
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.6068256
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.6378808
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.6695452
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.7006
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495514.7301476
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495514.7602322
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495515.703121
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495515.8170304
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495515.8474276
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495516.0243852
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495519.4242892
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495519.659437
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495519.8502333
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495519.9307306
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495519.9621375
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495519.991275
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.024414
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.0684228
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.0992346
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.1306808
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.1632228
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.195205
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.2243543
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.256243
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.3034377
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.3349955
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.3673005
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.396452
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.4279108
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495520.4561534
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495520.461147
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495521.9115977
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495522.0105164
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495522.1562278
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495522.3453772
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495522.4420817
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495522.6799219
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495522.9504151
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495523.2793915
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495524.5136578
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495524.666733
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495525.658666
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495525.7925525
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495526.7655745
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495526.9064732
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495528.0452218
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495528.1684463
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495528.2824945
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495528.627751
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495529.0
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1589,
+    "y": 1263,
+    "_time": 1721495529.2
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495532.453238
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495532.8385036
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495533.59125
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495534.1033113
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495534.1053646
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.left",
+    "x": 1599,
+    "y": 1245,
+    "_time": 1721495534.99189
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.0250826
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.5387685
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.5676405
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.5998242
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.6306908
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.6611338
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.690075
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.7368548
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.7674384
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.7995262
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.8306909
+  },
+  {
+    "action": "clicked",
+    "button": "Button.left",
+    "x": 1614,
+    "y": 1219,
+    "_time": 1721495535.8326907
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495535.8626955
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495535.8898213
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495535.967645
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1614,
+    "y": 1219,
+    "_time": 1721495536.3604908
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.4730678
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.503301
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1614,
+    "y": 1219,
+    "_time": 1721495536.527696
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.5496025
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.5811248
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.6110005
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.6435437
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.6726494
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.7054431
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.7344773
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.7654102
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.811395
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.8439069
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.8750231
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.9053411
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.9375825
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495536.9674275
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.0002136
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.031643
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.077733
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.1072693
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.138943
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.1702034
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.2032473
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.2330754
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.2644882
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.2953818
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.32572
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495537.3727636
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495537.3772707
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495537.600153
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495537.7118275
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495538.2706392
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1614,
+    "y": 1219,
+    "_time": 1721495538.3438323
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495538.3584747
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495538.4182
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1614,
+    "y": 1219,
+    "_time": 1721495538.4542484
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495538.725398
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495538.8612835
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495538.9798365
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495539.6281283
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495539.8872628
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495540.0082817
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495540.2105973
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495540.3771648
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495540.422564
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495540.8615184
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495541.3681872
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495541.3974218
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495541.4079318
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495541.6517828
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495541.6632893
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1870,
+    "y": 965,
+    "_time": 1721495543.549094
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1870,
+    "y": 965,
+    "_time": 1721495543.6940894
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495545.5810885
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495545.9913619
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495547.1892827
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495547.603174
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1925,
+    "y": 931,
+    "_time": 1721495547.6322126
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1926,
+    "y": 931,
+    "_time": 1721495547.7632506
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495548.107036
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.6130276
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.6433713
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.6736126
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.7051723
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.7533414
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.7831955
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.8137438
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.8463132
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.8764458
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495548.908997
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495548.9139953
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495548.9385912
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495549.2963977
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495549.4062433
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495549.8480394
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495549.873627
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1956,
+    "y": 900,
+    "_time": 1721495549.9434211
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1956,
+    "y": 900,
+    "_time": 1721495550.0734076
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495550.3873494
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495550.418143
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495550.4511516
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495550.482201
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495550.5113416
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495551.0950987
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495551.2297614
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495551.3360598
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495551.7533076
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495551.8414123
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495552.1063547
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495552.1500552
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495552.2736995
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495552.3955681
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1974,
+    "y": 882,
+    "_time": 1721495552.4408886
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1974,
+    "y": 882,
+    "_time": 1721495552.5675354
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495552.6633258
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.1732316
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.203386
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.2343683
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.2663655
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.296771
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.3430865
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.3751948
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.4071808
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.4370756
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495553.4668674
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495553.484385
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495553.698438
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495553.889457
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.2645125
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.776839
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.8073404
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.8396754
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.8706229
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.9017045
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.931398
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495554.9633265
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495554.9902306
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.0090058
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.0393674
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.072594
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.1035724
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.132786
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495555.137428
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.1635742
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.1976044
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.2260876
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.2753334
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.3065953
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.339333
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.3675497
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.3976314
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.4275794
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.4596055
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.5054097
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495555.5383465
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495555.5636423
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495556.0081384
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495556.4016354
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495556.4708493
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495558.3813343
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495558.6054487
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495558.983815
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495559.4981954
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495559.5305989
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495559.5608194
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495559.5608194
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.279577
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495560.513963
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495560.6767998
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.7913299
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.8225446
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.8536143
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.8833747
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.9164457
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.947499
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495560.979461
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.0250819
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.055848
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.0867012
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.1182683
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.1489432
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.1810243
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.2118855
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.2434163
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.2906687
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495561.3204863
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495561.328
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495561.5263748
+  },
+  {
+    "action": "pressed_key",
+    "key": "Key.space",
+    "_time": 1721495561.638968
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495561.7456985
+  },
+  {
+    "action": "released_key",
+    "key": "Key.space",
+    "_time": 1721495561.7839594
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495562.7464137
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495563.0776129
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.099655
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.600041
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.646124
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.6805098
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.7064164
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.7370949
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495563.7486005
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.7692049
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.8004518
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.8330684
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495563.8635955
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495563.8691018
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495563.9218793
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495564.1241038
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495564.6901834
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495565.447821
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495565.631167
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495566.756335
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495566.8477974
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495566.8813412
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495567.2359614
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495567.4604082
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495567.9463916
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495567.97127
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.0015488
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.0330236
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.0642428
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.0942402
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495568.1138043
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.125326
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.1726768
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.202432
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.2351837
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.2666533
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.296551
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.3271801
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495568.3568711
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495568.3694034
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495568.4187305
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495568.8922563
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495568.917515
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495569.1123424
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495569.2259488
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495569.262079
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495570.6280944
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.left",
+    "x": 1985,
+    "y": 883,
+    "_time": 1721495570.6636996
+  },
+  {
+    "action": "clicked",
+    "button": "Button.left",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495571.0215578
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495571.0344691
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495572.7825904
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495573.0534766
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495573.106223
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495573.1796432
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495573.6196048
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495573.9043787
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495574.1381683
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495574.2481816
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495575.1331184
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495575.2167556
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495575.77669
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495576.284269
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495576.3176181
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495576.3360841
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495576.538396
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495576.6170077
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495576.7710571
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495577.0439055
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495577.0763965
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495577.0877717
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495577.5418434
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495577.9997714
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.0552928
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.0863585
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.1153953
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.148797
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495578.1643333
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.1783905
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.2104597
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.257786
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.2870636
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.315395
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.349321
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.3829527
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.4114928
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.4461865
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.4759603
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.5065033
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495578.55015
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495578.5691893
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495579.5631404
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.063313
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.1100602
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.1402245
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.170446
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.2013493
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.2338524
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.2636273
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.296594
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.3277435
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.373571
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.404124
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.4365776
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.4666438
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.4980907
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.5293498
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.561196
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.5926604
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.6241856
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.670722
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.7032452
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.7341752
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.7635608
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.795228
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495580.827648
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495580.846198
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495581.0405195
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495581.2271507
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495581.435741
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1994,
+    "y": 871,
+    "_time": 1721495581.5966194
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495581.6555045
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.1698222
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.2012753
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.2328231
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.263911
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.2944481
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.3265078
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.3585813
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.3871267
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.4342182
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.4642727
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.4963696
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.5268986
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495582.5579472
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495582.5874918
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495582.6265829
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495583.136923
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495583.1659663
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495583.196047
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495583.2286
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495583.2731524
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495583.299243
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495584.9140377
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495585.2177687
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495586.1290338
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495586.2952816
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495586.3812802
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495586.677478
+  },
+  {
+    "action": "pressed_key",
+    "key": "Key.space",
+    "_time": 1721495586.797615
+  },
+  {
+    "action": "released_key",
+    "key": "Key.space",
+    "_time": 1721495586.897184
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495587.0720031
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495587.1201568
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495587.348313
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495587.4424052
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495587.705041
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495587.920303
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495588.0301354
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495588.2140694
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495588.763452
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495588.9653661
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495589.0526946
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495589.3229246
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495589.5062134
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495589.6230907
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1997,
+    "y": 867,
+    "_time": 1721495589.820573
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1997,
+    "y": 867,
+    "_time": 1721495589.9436793
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495590.6338775
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.left",
+    "x": 1997,
+    "y": 867,
+    "_time": 1721495590.6489077
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.145667
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.1768444
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.2079594
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.239292
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.2713573
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.3026204
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.3341691
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.3659284
+  },
+  {
+    "action": "clicked",
+    "button": "Button.left",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495591.3993373
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.4117212
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495591.4162533
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495591.7285264
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495591.8253117
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495592.342683
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495592.5565732
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495592.62313
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495592.8360069
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.0104377
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.5132372
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.544475
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.5908496
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.6223931
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.653548
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.685198
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.7157001
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.747286
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.7792394
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.8101451
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495593.8414564
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495593.8570113
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495593.9008455
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.4135242
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.4440706
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.4775538
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.507745
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.5391448
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.5674608
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.5994506
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.6323373
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.6794276
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.7107162
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.7415497
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.772562
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.8053358
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495594.835361
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495594.8403087
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495594.8484318
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495595.0452766
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495595.0515375
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495595.1800785
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495595.1830773
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495595.394133
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495595.7344012
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.2486641
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.2808292
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.310394
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.3415632
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.3721123
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.403201
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.434399
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.4660883
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.5104
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.541746
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.5726945
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.603233
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.6340938
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.6663842
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.6965513
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.742854
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.7751727
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.8062313
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.8369808
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.8681324
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495596.8983848
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495596.9078965
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495596.9461524
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.4485037
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.492214
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.5232754
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.5564456
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.5866637
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.6177666
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.6489894
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.6804004
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.7109628
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.7424471
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.791701
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.8197498
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.8518581
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.882066
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.914043
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.9451377
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495597.9773395
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495598.007134
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495598.0538902
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495598.0836992
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495598.1157527
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495598.136485
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495598.1780927
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495598.6335046
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495598.639015
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495598.7853076
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495599.5655246
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495599.838209
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495599.8503828
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.356315
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.3873303
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.4190629
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.4652853
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.495728
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.5263484
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.5563018
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.58679
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.6183493
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.6488721
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.680629
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.7275906
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.7587
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.789264
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.8208535
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.852412
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.8840446
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.9151087
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495600.9466758
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495600.9516876
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495600.9814506
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.4942026
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.523559
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.5556176
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.5856564
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.6171384
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.6486957
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.6797235
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.7274861
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.7576644
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.788444
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.8195605
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.8500485
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.8827956
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495601.9133184
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495601.9353325
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495601.9479127
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495602.056653
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495602.1331546
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495602.264069
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495602.4831514
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495602.7715235
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495603.9179327
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495603.9851277
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495603.9933112
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 2002,
+    "y": 859,
+    "_time": 1721495604.1052103
+  },
+  {
+    "action": "pressed_key",
+    "key": "a",
+    "_time": 1721495608.9302702
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495609.1543074
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495609.6422122
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495610.0202
+  },
+  {
+    "action": "released_key",
+    "key": "a",
+    "_time": 1721495610.1652524
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495610.1852565
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495610.992573
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1921,
+    "y": 889,
+    "_time": 1721495611.273213
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495611.2923822
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495611.3141224
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1922,
+    "y": 889,
+    "_time": 1721495611.396644
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495611.5007877
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495612.32192
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495612.4713798
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495613.311356
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495613.46092
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495614.8244357
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.3386517
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.3694086
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.399384
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.430772
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.4633033
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.494451
+  },
+  {
+    "action": "pressed_key",
+    "key": "s",
+    "_time": 1721495615.5261428
+  },
+  {
+    "action": "pressed_key",
+    "key": "d",
+    "_time": 1721495615.5501509
+  },
+  {
+    "action": "released_key",
+    "key": "s",
+    "_time": 1721495615.8937385
+  },
+  {
+    "action": "pressed_key",
+    "key": "w",
+    "_time": 1721495616.3933485
+  },
+  {
+    "action": "released_key",
+    "key": "d",
+    "_time": 1721495616.8867145
+  },
+  {
+    "action": "released_key",
+    "key": "w",
+    "_time": 1721495617.0521042
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1940,
+    "y": 884,
+    "_time": 1721495617.178788
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1940,
+    "y": 884,
+    "_time": 1721495617.328472
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.left",
+    "x": 1957,
+    "y": 882,
+    "_time": 1721495618.4456754
+  },
+  {
+    "action": "clicked",
+    "button": "Button.right",
+    "x": 1974,
+    "y": 879,
+    "_time": 1721495618.5870903
+  },
+  {
+    "action": "unclicked",
+    "button": "Button.right",
+    "x": 1985,
+    "y": 876,
+    "_time": 1721495621.3890147
+  }
+]
